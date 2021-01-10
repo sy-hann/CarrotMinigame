@@ -85,7 +85,7 @@ body {
 
 .popup {
   width: 400px;
-  height: 140px;
+  height: 120px;
   padding: 20px;
   margin: auto;
   background-color: rgba(0, 0, 0, 0.6);
@@ -107,9 +107,11 @@ body {
   background-color: var(--color-yellow);
   border: var(--border-option);
   border-radius: 10px;
+  margin-bottom: 10px;
 }
 
 .popup__message {
   display: block;
   font-size: 36px;
+  font-weight: bold;
 }
