@@ -16,11 +16,11 @@ const popup = document.querySelector('.popup');
 const popupText = document.querySelector('.popup__message');
 const popupReplay = document.querySelector('.popup__replay');
 
-const carrotSound = new Audio('../sound/carrot_pull.mp3');
-const alertSound = new Audio('../sound/alert.wav');
-const bgSound = new Audio('../sound/bg.mp3');
-const bugSound = new Audio('../sound/bug_pull.mp3');
-const winSound = new Audio('../sound/game_win.mp3');
+const carrotSound = new Audio('./sound/carrot_pull.mp3');
+const alertSound = new Audio('./sound/alert.wav');
+const bgSound = new Audio('./sound/bg.mp3');
+const bugSound = new Audio('./sound/bug_pull.mp3');
+const winSound = new Audio('./sound/game_win.mp3');
 
 //게임이 시작이 되었는지 안되었는지
 let started = false;
