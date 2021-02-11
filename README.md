@@ -14,11 +14,12 @@
 <br>
 
 ## 4. Main Functions
-    * When press ▶️, game starts with the bgm
-    * Play the game for 15 seconds
-    * when press ■, game stops
+    * When press ▶️, game starts with the bgm.
+    * Play the game for 15 seconds.
+    * When press ■, game stops.
     * When get all 15 carrots, you win.
     * When catch a bug or couldn't finish in 15 seconds, you lose.
+    * Press 🔄, if want to replay the game.
 
 <br>
 
